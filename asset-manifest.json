@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ayushguptahestabit.github.io/toDoContext/static/css/main.f301a3e6.css",
-    "main.js": "/ayushguptahestabit.github.io/toDoContext/static/js/main.0dd474d0.js",
-    "static/js/787.27d6b561.chunk.js": "/ayushguptahestabit.github.io/toDoContext/static/js/787.27d6b561.chunk.js",
-    "index.html": "/ayushguptahestabit.github.io/toDoContext/index.html",
-    "main.f301a3e6.css.map": "/ayushguptahestabit.github.io/toDoContext/static/css/main.f301a3e6.css.map",
-    "main.0dd474d0.js.map": "/ayushguptahestabit.github.io/toDoContext/static/js/main.0dd474d0.js.map",
-    "787.27d6b561.chunk.js.map": "/ayushguptahestabit.github.io/toDoContext/static/js/787.27d6b561.chunk.js.map"
+    "main.css": "/toDoContext/static/css/main.f301a3e6.css",
+    "main.js": "/toDoContext/static/js/main.cbd5d7f3.js",
+    "static/js/787.27d6b561.chunk.js": "/toDoContext/static/js/787.27d6b561.chunk.js",
+    "index.html": "/toDoContext/index.html",
+    "main.f301a3e6.css.map": "/toDoContext/static/css/main.f301a3e6.css.map",
+    "main.cbd5d7f3.js.map": "/toDoContext/static/js/main.cbd5d7f3.js.map",
+    "787.27d6b561.chunk.js.map": "/toDoContext/static/js/787.27d6b561.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f301a3e6.css",
-    "static/js/main.0dd474d0.js"
+    "static/js/main.cbd5d7f3.js"
   ]
 }
