@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Demo : https://ayushguptahestabit.github.io/toDoContext/
+
 ## Available Scripts
 
-In the project directory, you can run: https://ayushguptahestabit.github.io/toDoContext/
+In the project directory, you can run:
 
 ### `npm start`
 
