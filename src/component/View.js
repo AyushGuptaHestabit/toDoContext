@@ -68,7 +68,7 @@ function View() {
                         Add
                     </button>
                 </form>
-                <div className="filters btn-group stack-exception">
+                <div className="filters btn-group stack-exception my-3">
                     <button type="button" className="btn toggle-btn" onClick={() => setShow(1)} aria-pressed="true">
                         <span className="visually-hidden">Show </span>
                         <span>all</span>
